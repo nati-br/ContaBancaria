@@ -1,0 +1,13 @@
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.exe
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.deps.json
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.runtimeconfig.json
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.runtimeconfig.dev.json
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.dll
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\bin\Debug\netcoreapp3.1\Conta.pdb
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.AssemblyInfo.cs
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.dll
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.pdb
+C:\Users\natal\Desktop\C#\POO\Seção 10 Herança e Polimorfimos\Conta\Conta\obj\Debug\netcoreapp3.1\Conta.genruntimeconfig.cache

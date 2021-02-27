@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Obq3NCFVfPY67DR82frezr0WeEF6CseBRwnEGCc+J+qs6SREbhNLsRQ2MQBtGwhE0eT9c+oSueyDCupr3yYcEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natal\\Desktop\\C#\\POO\\Seção 10 Herança e Polimorfimos\\Conta\\Conta\\Conta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
